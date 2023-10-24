@@ -21,23 +21,103 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/577496822/year.md">
-				hajnaloltyan
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/675413162/year.md">
+				weather-data
 			</a>
 		</td>
 		<td>
-			2023/10/22 11:08 PM UTC
+			2023/10/21 11:30 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/675413162/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/629195169/year.md">
+				garden-and-flower-show
+			</a>
+		</td>
+		<td>
+			2023/10/21 11:31 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/577496822/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/629195169/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/690252265/year.md">
+				space-travelers-hub
+			</a>
+		</td>
+		<td>
+			2023/10/21 11:31 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/690252265/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/666170301/year.md">
+				react-bookstore
+			</a>
+		</td>
+		<td>
+			2023/10/21 11:31 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/666170301/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/709530546/year.md">
+				Catalog-of-my-things
+			</a>
+		</td>
+		<td>
+			2023/10/21 11:31 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/709530546/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/704275272/year.md">
+				RUBY-School
+			</a>
+		</td>
+		<td>
+			2023/10/21 11:31 PM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/704275272/small/year.png" height="20"> 96
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/10/24 11:23 PM UTC</i></small>
+<small><i>Last updated on 2023/10/24 11:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
