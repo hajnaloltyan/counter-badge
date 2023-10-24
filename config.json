@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "hajnaloltyan"
+    "weather-data",
+    "garden-and-flower-show",
+    "space-travelers-hub",
+    "react-bookstore",
+    "Catalog-of-my-things",
+    "RUBY-School"
   ]
 }
