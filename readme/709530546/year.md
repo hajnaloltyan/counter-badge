@@ -1,5 +1,6 @@
 ## [🔙 counter-badge](https://github.com/hajnaloltyan/counter-badge)
-
+| [**Week →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/week.md) | [**Month →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/month.md) | [**Year →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Catalog-of-my-things](https://github.com/hajnaloltyan/Catalog-of-my-things)
 ![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/graph/709530546/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/25 3:03 PM UTC</i></small>
+<small><i>Last updated on 2023/10/25 6:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/709530546/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/week.md)
 ```
 ### Header
-# Catalog-of-my-things [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/709530546/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/year.md)
+# Catalog-of-my-things [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/709530546/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/week.md)
 ```readme
-# Catalog-of-my-things [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/709530546/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/year.md)
+# Catalog-of-my-things [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/709530546/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/709530546/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,5 +1,6 @@
 ## [🔙 counter-badge](https://github.com/hajnaloltyan/counter-badge)
-
+| [**Week →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/week.md) | [**Month →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/month.md) | [**Year →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [diagram-database](https://github.com/hajnaloltyan/diagram-database)
 ![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/graph/696989580/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/25 3:04 PM UTC</i></small>
+<small><i>Last updated on 2023/10/25 6:14 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/696989580/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/week.md)
 ```
 ### Header
-# diagram-database [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/696989580/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/year.md)
+# diagram-database [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/696989580/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/week.md)
 ```readme
-# diagram-database [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/696989580/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/year.md)
+# diagram-database [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/696989580/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/696989580/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,5 +1,6 @@
 ## [🔙 counter-badge](https://github.com/hajnaloltyan/counter-badge)
-
+| [**Week →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/week.md) | [**Month →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/month.md) | [**Year →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [hajnaloltyan](https://github.com/hajnaloltyan/hajnaloltyan)
 ![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/graph/577496822/large/year.png)
 
@@ -23,10 +24,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>35</code>
+			<code>43</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/25 3:04 PM UTC</i></small>
+<small><i>Last updated on 2023/10/25 6:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/577496822/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/week.md)
 ```
 ### Header
-# hajnaloltyan [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/577496822/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/year.md)
+# hajnaloltyan [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/577496822/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/week.md)
 ```readme
-# hajnaloltyan [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/577496822/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/year.md)
+# hajnaloltyan [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/577496822/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/577496822/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

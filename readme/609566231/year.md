@@ -1,5 +1,6 @@
 ## [🔙 counter-badge](https://github.com/hajnaloltyan/counter-badge)
-
+| [**Week →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/week.md) | [**Month →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/month.md) | [**Year →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [introduction-to-github](https://github.com/hajnaloltyan/introduction-to-github)
 ![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/graph/609566231/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/25 3:05 PM UTC</i></small>
+<small><i>Last updated on 2023/10/25 6:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/609566231/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/week.md)
 ```
 ### Header
-# introduction-to-github [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/609566231/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/year.md)
+# introduction-to-github [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/609566231/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/week.md)
 ```readme
-# introduction-to-github [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/609566231/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/year.md)
+# introduction-to-github [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/609566231/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/609566231/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

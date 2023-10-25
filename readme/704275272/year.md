@@ -1,5 +1,6 @@
 ## [🔙 counter-badge](https://github.com/hajnaloltyan/counter-badge)
-
+| [**Week →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/week.md) | [**Month →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/month.md) | [**Year →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [RUBY-School](https://github.com/hajnaloltyan/RUBY-School)
 ![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/graph/704275272/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/25 3:02 PM UTC</i></small>
+<small><i>Last updated on 2023/10/25 6:11 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/704275272/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/week.md)
 ```
 ### Header
-# RUBY-School [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/704275272/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/year.md)
+# RUBY-School [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/704275272/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/week.md)
 ```readme
-# RUBY-School [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/704275272/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/year.md)
+# RUBY-School [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/704275272/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/704275272/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

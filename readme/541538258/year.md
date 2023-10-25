@@ -1,5 +1,6 @@
 ## [🔙 counter-badge](https://github.com/hajnaloltyan/counter-badge)
-
+| [**Week →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/week.md) | [**Month →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/month.md) | [**Year →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [js_style-to-object](https://github.com/hajnaloltyan/js_style-to-object)
 ![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/graph/541538258/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/25 3:07 PM UTC</i></small>
+<small><i>Last updated on 2023/10/25 6:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/541538258/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/week.md)
 ```
 ### Header
-# js_style-to-object [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/541538258/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/year.md)
+# js_style-to-object [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/541538258/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/week.md)
 ```readme
-# js_style-to-object [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/541538258/small/year.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/year.md)
+# js_style-to-object [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/541538258/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/541538258/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
