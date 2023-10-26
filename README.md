@@ -117,22 +117,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/545898224/week.md">
-				123-Essential-JavaScript-Interview-Questions
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:02 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/545898224/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/709530546/week.md">
 				Catalog-of-my-things
 			</a>
@@ -145,38 +129,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/709530546/small/week.png" height="20"> 4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/535645068/week.md">
-				Eco_cosmetics
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:03 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/535645068/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/602510860/week.md">
-				Intro-to-Vue-3
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:03 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/602510860/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -197,22 +149,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/696989580/week.md">
-				diagram-database
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:04 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/696989580/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/697515930/week.md">
 				enumerable
 			</a>
@@ -225,22 +161,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/697515930/small/week.png" height="20"> 12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/629195169/week.md">
-				garden-and-flower-show
-			</a>
-		</td>
-		<td>
-			2023/10/24 11:31 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/629195169/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -293,311 +213,167 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/521210732/week.md">
-				ideal-memory
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/709984830/week.md">
+				rails-blog-app
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:05 PM UTC
+			2023/10/23 9:06 PM UTC
 		</td>
 		<td>
-			0
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/521210732/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/709984830/small/week.png" height="20"> 30
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/609566231/week.md">
-				introduction-to-github
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/700023590/week.md">
+				school-library
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:05 PM UTC
+			2023/10/23 9:06 PM UTC
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/609566231/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/700023590/small/week.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/548035498/week.md">
-				js_advanced_calculator
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/693216179/week.md">
+				vet-clinic
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:05 PM UTC
+			2023/10/23 9:07 PM UTC
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/548035498/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/693216179/small/week.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/539981779/week.md">
-				js_array-method-join
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/678984679/week.md">
+				hajnaloltyan.github.io
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:05 PM UTC
+			2023/10/23 9:08 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/539981779/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/678984679/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/541296807/week.md">
-				js_average-ages
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/661454902/week.md">
+				react-calculator
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:06 PM UTC
+			2023/10/23 9:08 PM UTC
 		</td>
 		<td>
-			0
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/541296807/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/661454902/small/week.png" height="20"> 2
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/547261633/week.md">
-				js_herbivores_and_carnivores
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/663624573/week.md">
+				react-todo
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:06 PM UTC
+			2023/10/23 9:09 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/547261633/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/663624573/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/538099293/week.md">
-				js_inverse_robot
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/654202432/week.md">
+				leaderboard
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:06 PM UTC
+			2023/10/23 9:10 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/538099293/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/654202432/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/546688154/week.md">
-				js_robot_factory
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/617533551/week.md">
+				portfolio-mv
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:06 PM UTC
+			2023/10/23 9:10 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/546688154/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/617533551/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/538199304/week.md">
-				js_stateful-clones
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/573592619/week.md">
+				React__tic-tac-toe
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:07 PM UTC
+			2023/10/23 9:11 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/538199304/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/573592619/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/538238374/week.md">
-				js_stateful-object
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/534213189/week.md">
+				my-bike-project
 			</a>
 		</td>
 		<td>
-			2023/10/24 3:07 PM UTC
+			2023/10/23 9:11 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/538238374/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/541538258/week.md">
-				js_style-to-object
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:07 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/541538258/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/544440455/week.md">
-				js_sum-with-closure
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:07 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/544440455/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/544563737/week.md">
-				js_task-inifinite-sum-closures
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:07 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/544563737/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/536138674/week.md">
-				js_task-transportation-on-vacation
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:08 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/536138674/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/538200219/week.md">
-				js_task_make_robot
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:08 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/538200219/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/530696170/week.md">
-				layout_antisnake
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:08 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/530696170/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/528399562/week.md">
-				layout_calendar
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:08 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/528399562/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/527964395/week.md">
-				layout_catalog
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:08 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/527964395/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/530614363/week.md">
-				layout_catalog_grid
-			</a>
-		</td>
-		<td>
-			2023/10/24 3:09 PM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/530614363/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/534213189/small/week.png" height="20"> 0
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/10/26 6:29 PM UTC</i></small>
+<small><i>Last updated on 2023/10/26 9:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
