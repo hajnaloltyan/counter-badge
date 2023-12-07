@@ -38,7 +38,7 @@
 			<code>29</code>
 		</td>
 		<td>
-			<code>631</code>
+			<code>626</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/7 6:12 AM UTC</i></small>
+<small><i>Last updated on 2023/12/7 12:15 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
