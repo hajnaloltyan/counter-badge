@@ -197,6 +197,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/736662473/week.md">
+				reserve-boats-frontend
+			</a>
+		</td>
+		<td>
+			2023/12/28 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/736662473/small/week.png" height="20"> 22
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/736662348/week.md">
+				reserve-boats-backend
+			</a>
+		</td>
+		<td>
+			2023/12/28 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/736662348/small/week.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/661713628/week.md">
 				group-capstone-javascript-art-gallery
 			</a>
@@ -405,7 +437,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/31 5:01 PM UTC</i></small>
+<small><i>Last updated on 2023/12/31 6:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
