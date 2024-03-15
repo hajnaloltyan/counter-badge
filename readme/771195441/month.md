@@ -1,0 +1,392 @@
+## [🔙 counter-badge](https://github.com/hajnaloltyan/counter-badge)
+| [**Week →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/771195441/week.md) | [**Month →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/771195441/month.md) | [**Year →**](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/771195441/year.md) |
+| ---- | ---- | ----- |
+### :octocat: [hajnaloltyan.github.io](https://github.com/hajnaloltyan/hajnaloltyan.github.io)
+![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/graph/771195441/large/month.png)
+
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Month Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/14</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>3</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/13</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/12</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/11</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/10</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/9</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/8</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/7</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/6</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/5</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/4</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/3</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/2</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/3/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/29</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/28</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/27</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/26</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/25</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/24</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/23</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/22</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/21</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/20</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/19</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/17</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/16</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/2/14</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+</table>
+
+</details>
+<small><i>Last updated on 2024/3/15 12:38 AM UTC</i></small>
+
+## ✂️Copy and 📋 Paste
+### SVG Badge
+[![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/771195441/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/771195441/week.md)
+```readme
+[![Image of counter-badge](https://github.com/hajnaloltyan/counter-badge/blob/master/svg/771195441/badge.svg)](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/771195441/week.md)
+```
+### Header
+# hajnaloltyan.github.io [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/771195441/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/771195441/week.md)
+```readme
+# hajnaloltyan.github.io [<img alt="Image of counter-badge" src="https://github.com/hajnaloltyan/counter-badge/blob/master/graph/771195441/small/week.png" height="20">](https://github.com/hajnaloltyan/counter-badge/blob/master/readme/771195441/week.md)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
