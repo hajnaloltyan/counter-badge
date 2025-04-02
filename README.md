@@ -341,22 +341,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/661454902/week.md">
-				react-calculator
-			</a>
-		</td>
-		<td>
-			2025/3/31 12:59 AM UTC
-		</td>
-		<td>
-			19
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hajnaloltyan/counter-badge/raw/master/graph/661454902/small/week.png" height="20"> 51
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hajnaloltyan/counter-badge/tree/master/readme/663624573/week.md">
 				react-todo
 			</a>
@@ -437,7 +421,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/2 12:28 PM UTC</i></small>
+<small><i>Last updated on 2025/4/2 6:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
